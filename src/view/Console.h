@@ -1,13 +1,11 @@
 #pragma once
 
-#include <windows.h>
 #include <stdlib.h>
-#include <conio.h>
 #include <iostream>
 #include <atomic>
 #include <thread>
 #include "enum/Input.h"
-#include "model/AppController.h"
+#include "../model/AppController.h"
 #include "view/rendering/Renderer2D.h"
 #include "view/rendering/Renderer3D.h"
 
