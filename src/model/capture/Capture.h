@@ -1,7 +1,7 @@
 #pragma once
 
 #include <list>
-#include "model/camera/Packet.h"
+#include "../camera/Packet.h"
 
 class Capture
 {
