@@ -3,8 +3,8 @@
 #include <list>
 #include <thread>
 #include <atomic>
-#include "model/capture/CaptureType.h"
-#include "model/capture/Capture.h"
+#include "../capture/CaptureType.h"
+#include "../capture/Capture.h"
 #include "optitrack/OptitrackCamera.h"
 #include "Packet.h"
 #include "config/ConfigController.h"
