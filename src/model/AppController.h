@@ -1,9 +1,9 @@
 #pragma once
 
-#include "model/config/ConfigController.h"
-#include "model/camera/CameraController.h"
-#include "model/scene/SceneController.h"
-#include "model/calibration/CalibrationController.h"
+#include "config/ConfigController.h"
+#include "camera/CameraController.h"
+#include "scene/SceneController.h"
+#include "calibration/CalibrationController.h"
 
 class AppController
 {
